@@ -12,9 +12,9 @@ class Config(object):
     # MyTelegram.org
     # configurtion required while creating new application
     APP_TITLE = os.environ.get("APP_TITLE", "usetgbot")
-    APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "usetgbot")
-    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/UseTGxBot")
-    APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://telegram.dog/UseTGxBot")
+    APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "tglogin_bot")
+    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/tglogin_Bot")
+    APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://telegram.dog/TGlogin_Bot")
     #
     FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @B0RNTOLE4RN")
     # the strings used in the different messages
