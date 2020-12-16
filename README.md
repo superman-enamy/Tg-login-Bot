@@ -7,7 +7,7 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+- can be found on [Telegram](https://telegram.dog/tglogin_Bot)
 
 🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
@@ -23,7 +23,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://GitHub.com/SpEcHiDe/MyTelegramOrgRoBot.git
+git clone https://github.com/superman-enamy/Tg-login-Bot.git
 ```
 
 - change the directory.
